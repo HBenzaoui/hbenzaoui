@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7725
-Fork on GitHub
-1560
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Hamza Benzaoui</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
